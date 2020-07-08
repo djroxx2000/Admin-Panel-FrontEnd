@@ -1,6 +1,6 @@
-# client
+# EVIT Admin Page
 
-## This was written for EVI Technologies but can be used as a template with minimal changes required.
+### This was written for EVI Technologies but can be used as a template with minimal changes required.
 
 ## Project setup
 ```
